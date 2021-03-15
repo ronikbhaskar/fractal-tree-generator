@@ -1,7 +1,8 @@
 # fractal-tree-generator
 
 Tree Generator
-Ronik Bhaskar
+
+
 
 Summary:
 
